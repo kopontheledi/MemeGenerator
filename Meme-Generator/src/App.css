@@ -17,6 +17,8 @@ body {
 .footer {
   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+  font-family:sans-serif;
+  padding-left: 40%;
 }
 
 .head-h2 {
@@ -189,5 +191,12 @@ margin-top: 5%;
     .bottom{
       bottom: 0;
       
+    }
+
+    .footer {
+      background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+      font-family:sans-serif;
+      font-size:x-small;
     }
  }
